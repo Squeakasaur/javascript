@@ -1,0 +1,1 @@
+console.log("Just a simple JS file for testing purposes");
